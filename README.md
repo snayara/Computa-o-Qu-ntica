@@ -1,1 +1,1 @@
-# Computa-o-Qu-ntica
+### Repositório para estudos de computação quântica
